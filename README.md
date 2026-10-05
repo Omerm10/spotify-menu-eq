@@ -3,7 +3,7 @@
 I wanted to change Spotify's EQ without having to open the app every time.
 So I built a companion that stays connected to Spotify and lets me adjust the sound directly from my Mac's menu bar.
 
-<img src="docs/images/menu-bar.png" alt="Spotify Menu EQ menu-bar popover with playback controls and a five-band equalizer" width="360">
+<img src="docs/images/menu-bar-landscape.png" alt="Spotify Menu EQ preview showing Rouge. by St-Amour, cezanne over a mountain and lake landscape" width="760">
 
 ## Features
 
