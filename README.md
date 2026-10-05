@@ -1,5 +1,8 @@
 # Spotify Menu EQ
 
+I wanted to change Spotify's EQ without having to open the app every time.
+So I built a companion that stays connected to Spotify and lets me adjust the sound directly from my Mac's menu bar.
+
 A native macOS menu-bar app that gives Spotify desktop audio a five-band equalizer, with playback controls and album artwork a click away.
 Built with Swift, SwiftUI, and Apple's Core Audio process taps, with no third-party runtime dependencies.
 
