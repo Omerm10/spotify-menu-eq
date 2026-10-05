@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>com.omerm.spotify-menu-eq-v1</string>
+<key>CFBundleName</key><string>Spotify Menu EQ</string>
+<key>CFBundleDisplayName</key><string>Spotify Menu EQ</string>
+<key>CFBundleExecutable</key><string>SpotifyMenuEQ</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+<key>NSPrincipalClass</key><string>NSApplication</string>
+<key>LSMinimumSystemVersion</key><string>14.4</string>
+<key>CFBundleShortVersionString</key><string>0.1</string>
+<key>LSUIElement</key><true/>
+<key>NSAppleEventsUsageDescription</key><string>Show and control your Spotify playback in the menu bar.</string>
+<key>NSAudioCaptureUsageDescription</key><string>Apply an equalizer to Spotify audio.</string>
+<key>NSMicrophoneUsageDescription</key><string>Capture Spotify output for equalization.</string>
+</dict></plist>

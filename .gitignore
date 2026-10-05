@@ -1,0 +1,14 @@
+.DS_Store
+.build/
+*.app/
+*.dSYM/
+*.xcresult/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.mobileprovision
+*.provisionprofile
